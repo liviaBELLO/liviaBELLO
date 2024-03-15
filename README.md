@@ -22,12 +22,6 @@
 
 <h2 align="left">Estatísticas :</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitmvfs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=gitmvfs&locale=pt-br&mode=daily&theme=blueberry&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
